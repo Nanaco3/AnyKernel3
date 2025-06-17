@@ -4,10 +4,8 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Caelum Kernel for Miatoll by Onelots | https://discord.onelots.fr 
-kernel.made=Onelots
-kernel.version=4.14.336
-message.word=Thank you for installing Caelum Kernel !
+kernel.string=SukiSU Kernel for Miatoll by Github-Actions 
+
 do.devicecheck=1
 do.modules=0
 do.systemless=1
